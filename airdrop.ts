@@ -1,3 +1,6 @@
+// Instructions: 
+// 1) Run this script to request an airdrop of 2 SOL to your dev wallet.
+
 import { Connection, Keypair, LAMPORTS_PER_SOL } from "@solana/web3.js";
 import wallet from "./dev-wallet.json";
 
