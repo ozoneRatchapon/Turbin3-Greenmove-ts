@@ -1,3 +1,6 @@
+// Instruction: 
+// 1) Generate a new Solana wallet
+
 import { Keypair } from "@solana/web3.js";
 
 // Generate a new keypair
